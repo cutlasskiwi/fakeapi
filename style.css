@@ -1,0 +1,13 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-gap: 1em;
+}
+
+.hide {
+  display: none;
+}
+
+#error {
+  display: none;
+}
